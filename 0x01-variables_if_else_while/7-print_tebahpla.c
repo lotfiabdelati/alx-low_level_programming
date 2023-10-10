@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-/*
+/**
  * main -entry point
  *
  * description: print all prints the lowercase alphabet in reverse
@@ -9,7 +9,6 @@
  */
 
 int main(void)
-
 {
 	char ch = 'z';
 
